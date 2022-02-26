@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Navigation stuff */
+header {
+    padding: 0;
+    background-color: darkcyan;
+    margin: 5px;
+}
+header nav ul li {
+    display: inline;
+}
+/* End Navigation Stuff */
+
+/* general section stuff */
+section {
+}
+/* End general section stuff */
+
+/* overview section stuff */
+.overview {
+    background-color: azure;
+}
+/* End overview section stuff */
+
+/* footer stuff */
+footer {
+    font-family: 'Courier New', Courier, monospace;
+}
+/*End footer stuff */
