@@ -15,6 +15,6 @@ I like to imagine that I'm a friendly, helpful, and positive influence in people
 * Publish a novel.
 ### Not-So-Interesting Random Facts
 * I collect folding fans and lightsabers
-* Gluten-free by necessity
+* Gluten-free by necessity.
 * I have three A.A. General Studies degrees, all of them in a different emphasis.
 * My friends have forced a chicken-themed collection on me because of a recurring joke that I'm "the Chicken Queen." It's gotten to the point where I've accepted it as part of my life now.

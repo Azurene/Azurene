@@ -12,17 +12,20 @@ body {
 
 /* Navigation stuff */
 .navigation {
-    background-color: rgb(5, 68, 65)
+    background-color: rgb(5, 25, 68);
+    padding: 5px;
 }
 .navigation h1 {
-    padding: 5px;
     position: relative;
     margin: 0 auto;
+    font-family: 'Cordo', serif;
+    padding: 5px;
 }
 
 .navigation nav  ul li {
     display: inline;
-    float: right;
+    border-left:rgb(255, 255, 255) solid;
+    padding: 5px;
 }
 
 .navigation nav ul li a {
@@ -33,12 +36,13 @@ body {
 
 /* general section stuff */
 section {
+    padding: 10px;
 }
 /* End general section stuff */
 
 /* overview section stuff */
 .overview {
-    background-color: rgb(35, 85, 85);
+    background-color: rgb(35, 51, 85);
 }
 /* End overview section stuff */
 
