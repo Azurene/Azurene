@@ -1,3 +1,9 @@
+:root {
+    --background-color: rgb(48, 49, 49);
+    --text-color: rgb(255, 255, 255);
+    --section-color: rgb(5, 25, 68);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -7,12 +13,12 @@
 body {
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, 'sans-serif';
-    background-color: rgb(48, 49, 49);
+    background-color: var(--background-color)
 }
 
 /* Navigation stuff */
 .navigation {
-    background-color: rgb(5, 25, 68);
+    background-color: var(--section-color);
     padding: 5px;
 }
 .navigation h1 {
@@ -22,9 +28,12 @@ body {
     padding: 5px;
 }
 
+.navigation nav ul {
+    display: flex;
+}
+
 .navigation nav  ul li {
-    display: inline;
-    border-left:rgb(255, 255, 255) solid;
+    border-left: var(--text-color) solid;
     padding: 5px;
 }
 
@@ -48,5 +57,6 @@ section {
 
 /* footer stuff */
 footer {
+    background-color: var(--section-color);
 }
 /*End footer stuff */
