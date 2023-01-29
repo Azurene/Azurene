@@ -11,8 +11,7 @@ I like to imagine that I'm a friendly, helpful, and positive influence in people
 * Video editing (rather poorly)
 ### Plans
 * Majoring in Psychology, hoping to complete my graduate degree down the line.
-* Completing a Web Development Bootcamp and hope to get a snazzy certification this year.
-* Combine the above to either conduct my own research or help other psychologists with theirs.
+* Combine my interests in psychology and technology to either conduct my own research or help other psychologists with theirs.
 * Publish a novel.
 ### Not-So-Interesting Random Facts
 * I collect folding fans and lightsabers.
